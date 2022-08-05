@@ -4,8 +4,6 @@
 <p text  align="center"> 
 <img width="400" src= "./image/animation.gif"> 
 </p>
-
-
 <br><br>
 <p align="center"> 
     <a href="https://fernandoaugustodev.github.io/Treine.me/" target="_blank" >Veja o Projeto</a>
